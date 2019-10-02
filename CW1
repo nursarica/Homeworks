@@ -1,0 +1,1 @@
+s="#"; while(s<8){s+="#" ; consol.log(s);}
